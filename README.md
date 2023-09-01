@@ -21,7 +21,7 @@ Method 2:
 If these methods gets patched, email me <a href="mailto:RangerRhino23@outlook.com">here</a> explaining which method is broken and I will try and fix it.
 
 <h1 style="color:red">!!!IMPORTANT!!!</h1>
-<p style="color:red">I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS. IF YOU GET IN TROUBLE THAT IS NOT ON ME!</p>
+<p style="color:red">I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS. <br>USE AT YOUR OWN RISK!</p>
 
 You can reach RangerRhino23 by their socials:
 
